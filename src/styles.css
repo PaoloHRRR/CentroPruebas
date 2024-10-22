@@ -6,6 +6,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+.mat-drawer-content{
+  background-image:url("/assets/images/fondo.png");
+}
 html {
   font-size: 62.5%;
 }
